@@ -12,7 +12,7 @@ I am a passionate and results-driven developer from Sirajganj, Bangladesh, curre
 | :--- | :--- |
 | **Frontend** | React(Learning), JavaScript (ES6+), TypeScript (Learning), HTML5, CSS3, Tailwind CSS |
 | **Backend (Learning)** | Node.js, Express.js, REST APIs |
-| **Databases (Learning)** | MongoDB, PostgreSQL,OracleSQL |
+| **Databases (Learning)** | MongoDB,OracleSQL |
 | **Tools & Version Control** | Git(Basic), GitHub, VS Code, Figma (Basic) |
 
 ---
